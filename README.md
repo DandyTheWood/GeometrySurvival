@@ -1,2 +1,2 @@
 # GeometrySurvival
-Simple game
+This game was developed at the start of my journey

@@ -1,4 +1,4 @@
-Geometry Survival
+# Geometry Survival
 Geometry Survival is a game that I developed at the beginning of my journey into python game development using turtle library. It was one of my first projects, where I experimented with game mechanics, programming logic, and design.
 
 # How to download and play:

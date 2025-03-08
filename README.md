@@ -2,10 +2,6 @@
 This game was developed at the start of my journey
 
 # How to download and play:
-Here’s a step-by-step guide on how to run a Python program on **Windows**, **Linux**, and **Mac**.
-
----
-
 ## **1. Windows**
 ### **Step 1: Install Python**
 1. Download Python from the official website: [https://www.python.org/downloads/](https://www.python.org/downloads/)

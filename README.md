@@ -91,18 +91,3 @@ This game was developed at the start of my journey
   ```sh
   python3 script.py
   ```
-
----
-
-### **Bonus: Running Python in Interactive Mode**
-If you just want to run Python commands interactively, open a terminal (Windows CMD, Linux/Mac Terminal) and type:
-```sh
-python3
-```
-or
-```sh
-python
-```
-This will open the Python shell where you can type Python commands.
-
-Let me know if you need any help! 🚀

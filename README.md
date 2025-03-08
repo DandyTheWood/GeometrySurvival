@@ -91,3 +91,4 @@ This game was developed at the start of my journey
   ```sh
   python3 script.py
   ```
+

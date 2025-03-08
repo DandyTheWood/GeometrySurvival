@@ -21,17 +21,17 @@ Geometry Survival is a game that I developed at the beginning of my journey into
    If Python is installed correctly, it will show the installed version.
 
 ### **Step 3: Run a Python Program**
-- Navigate to the folder where your Python file (`script.py`) is located:
+- Navigate to the folder where your Python file (`geometry_survival.py`) is located:
   ```sh
-  cd path\to\your\file
+  cd path\to\geometry_survival.py
   ```
 - Run the Python script:
   ```sh
-  python script.py
+  python geometry_survival.py
   ```
   or (if `python` does not work):
   ```sh
-  python3 script.py
+  python3 geometry_survival.py
   ```
 
 ---
@@ -55,13 +55,13 @@ Geometry Survival is a game that I developed at the beginning of my journey into
    ```
 
 ### **Step 2: Run a Python Program**
-- Navigate to the folder where your Python file (`script.py`) is stored:
+- Navigate to the folder where your Python file (`geometry_survival.py`) is stored:
   ```sh
-  cd /path/to/your/file
+  cd /path/to/geometry_survival.py
   ```
 - Run the script:
   ```sh
-  python3 script.py
+  python3 geometry_survival.py
   ```
 
 ---
@@ -85,10 +85,10 @@ Geometry Survival is a game that I developed at the beginning of my journey into
 ### **Step 2: Run a Python Program**
 - Navigate to the script location:
   ```sh
-  cd /path/to/your/file
+  cd /path/to/geometry_survival.py
   ```
 - Run the script:
   ```sh
-  python3 script.py
+  python3 geometry_survival.py
   ```
 
